@@ -11,4 +11,4 @@ Traffic signs detection is one of the main aspects of automatic driving. The car
 
 Dataset is available to clone from [here](https://bitbucket.org/jadslim/german-traffic-signs)
 
-![Performance of the model](Evaluation.jpeg)
+![Performance of the model](Evaluation.jpg)
